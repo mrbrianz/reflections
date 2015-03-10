@@ -9,3 +9,9 @@ and the repository?  What value do u think it offers?
 
 Each is a separate space in order to keep the content in
 dev, staging, and Prod modes.
+
+How can you use the staging area to make sure you have one
+commit per logical change?
+
+You can compare and this will help you decide where a logical
+point is.

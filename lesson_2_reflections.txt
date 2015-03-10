@@ -1,0 +1,11 @@
+What happens when u initialize a repository?  Why do
+you need to do it?
+
+It sets up the metadata in a hidden '.git' directory.
+This is necessary to keep track of changes.
+
+How is the staging area different from the working directory
+and the repository?  What value do u think it offers?
+
+Each is a separate space in order to keep the content in
+dev, staging, and Prod modes.

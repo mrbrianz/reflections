@@ -21,3 +21,7 @@ keeping your history organized?
 
 When you want to try changes, but do not want to
 'break the build'
+
+How do the diagrams help you visual the branch structure?
+
+Helps by seeing where things might have gotten orphaned.

@@ -32,3 +32,9 @@ do we represent it in the diagram the way we do?
 All the changes found in both are combined, it allows us
 to have separation until we are ready to introduce wild
 new changes.
+
+What are the pros and cons of Git's automatic merging vs.
+always doing merges manually?
+
+The pros are u always can see the changes, the only con is
+that u have to always see the changes.  :)

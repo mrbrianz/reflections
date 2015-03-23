@@ -6,3 +6,10 @@ Why might yu want to always pull changes manually rather than having Git automat
 stay up-to-date with your remote repository?
 
 Because if u are collaborating, u may not want the remote changes to be merged yet
+
+Describe the differences between forks, clones, and branches. When would u useone instead
+of another?
+
+Branches are just offshoots of the code, and done locally.  Clones are complete
+copies of a repo.  And Forks are the same as clones, but are done on the remote server,
+in this case on github.

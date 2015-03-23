@@ -18,3 +18,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Allows u to backtrack if needed, and allows u to still compare ur changes to where u started
 making alterations.
+
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be
+harder?
+
+Prob through email, texting, messaging.  SVN or some other versioning system 'might' be easier
+but having no versioning system at all would be more difficult.

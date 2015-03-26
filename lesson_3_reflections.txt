@@ -24,3 +24,9 @@ harder?
 
 Prob through email, texting, messaging.  SVN or some other versioning system 'might' be easier
 but having no versioning system at all would be more difficult.
+
+When would you make changes in a separate branch rather than directly in master?  What benefit
+does each approach have?
+
+If my changes are going to 'get in the way' or be destructive in any way, then it is best to
+go with a separate branch.  The master branch should stay in good, production-ready mode.
